@@ -1,7 +1,0 @@
-pic-synth
-An 8-bit digital synthesizer with MIDI input implemented on the PIC16F873A microcontroller.
-by Michael Craft
-
-Written in XC8. Hardware schematics coming at some point.
-
-Released under the BSD 2-Clause License.
